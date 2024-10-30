@@ -2,8 +2,8 @@
 
 solucion <- function() {
   # Asigna valores a 'a' y 'b' de manera que el valor asignado a 's' sea 100
-  a <- 150 # asigna valor aquí
-  b <- 50 # asigna valor aquí
+  a <- 74 # asigna valor aquí
+  b <- 76 # asigna valor aquí
   s <- a-b
   return(s)
 }
